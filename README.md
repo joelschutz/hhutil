@@ -19,12 +19,15 @@ This project name stands for *Handheld Utilities* and aims to provide a compreen
 | Calc | Dice |
 |--|--|
 | ![Calculator](calc-game/screenshot.png) | ![Dice Roller](dice-game/screenshot.png) |
+
 | Metronome | Weather |
 |--|--|
 | ![Metronome](metronome-game/screenshot.png) | ![Weather Forecast](weather-game/screenshot.png) |
+
 | To-Do | Controller Tester |
 |--|--|
 | ![To-Do List](todo-game/screenshot.png) | ![Controller Tester](gptester-game/screenshot.png)|
+
 | Habit Tracker | Tarot |
 |--|--|
 | ![Habit Tracker](habit-game/screenshot.png) | ![Tarot](tarot-game/screenshot.png) |
