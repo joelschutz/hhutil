@@ -4,15 +4,15 @@ This project name stands for *Handheld Utilities* and aims to provide a compreen
 
 ## Available Apps
 
-- Calculator
-- Dice Roller
-- Metronome
-- Weather Forecast
-- To-Do List
+- [Calculator](calc-game/README.md)
+- [Dice Roller](dice-game/README.md)
+- [Metronome](metronome-game/README.md)
+- [Weather Forecast](weather-game/README.md)
+- [To-Do List](todo-game/README.md)
+- [Controller Tester](gptester-game/README.md)
+- [Habit Tracker](habit-game/README.md)
+- [Tarot](tarot-game/README.md)
 - Calendar(Soon)
-- Controller Tester
-- Habit Tracker
-- Tarot
 
 ## Motivations
 Those new low cost handheld consoles are a very popular and although they are limited in performance, this is also a feature in my understanding to keep this platform free as in freedom. Those consoles are a chance for more young users to have their first experience with FOSS(Free and Open Source Software) and thats great! The scene around these are a kind of crossover between linux and homebrew, but not much apart from games are developed for those.
