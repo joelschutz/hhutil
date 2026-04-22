@@ -14,6 +14,21 @@ This project name stands for *Handheld Utilities* and aims to provide a compreen
 - [Tarot](tarot-game/README.md)
 - Calendar(Soon)
 
+## Screenshots
+
+| Calc | Dice |
+|--|--|
+| ![Calculator](calc-game/screenshot.png) | ![Dice Roller](dice-game/screenshot.png) |
+| Metronome | Weather |
+|--|--|
+| ![Metronome](metronome-game/screenshot.png) | ![Weather Forecast](weather-game/screenshot.png) |
+| To-Do | Controller Tester |
+|--|--|
+| ![To-Do List](todo-game/screenshot.png) | ![Controller Tester](gptester-game/screenshot.png)|
+| Habit Tracker | Tarot |
+|--|--|
+| ![Habit Tracker](habit-game/screenshot.png) | ![Tarot](tarot-game/screenshot.png) |
+
 ## Motivations
 Those new low cost handheld consoles are a very popular and although they are limited in performance, this is also a feature in my understanding to keep this platform free as in freedom. Those consoles are a chance for more young users to have their first experience with FOSS(Free and Open Source Software) and thats great! The scene around these are a kind of crossover between linux and homebrew, but not much apart from games are developed for those.
 This project tries to be a compromise that could help bridges gaming and utility, all apps are build entirelly with love2d, the legendary game library for homebrew. My objective is to create more utility software that, instead of mouse and keyboard, will be primarely used with a controller. I hope more developers get inspired by my vision and try there own solutions to make those small consoles even more useful.
