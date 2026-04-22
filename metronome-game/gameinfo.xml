@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Metronome.sh</path>
+    <name>Metronome</name>
+    <desc>A metronome application for handheld game consoles made with Love2d that includes 10 different clicks.</desc>
+    <image>./metronome/screenshot.png</image>
+    <releasedate>20260410T000000</releasedate>
+    <developer>KaMiSaMa</developer>
+    <publisher>KaMiSaMa</publisher>
+    <genre>Other</genre>
+  </game>
+</gameList>

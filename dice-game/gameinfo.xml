@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Dice.sh</path>
+    <name>Dice</name>
+    <desc>A dice roller application for handheld game consoles made with Love2d that support most used dice types.</desc>
+    <image>./dice/screenshot.png</image>
+    <releasedate>20260410T000000</releasedate>
+    <developer>KaMiSaMa</developer>
+    <publisher>KaMiSaMa</publisher>
+    <genre>Other</genre>
+  </game>
+</gameList>

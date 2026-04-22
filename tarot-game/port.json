@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "name": "tarot.zip",
+    "items": [
+        "Tarot.sh",
+        "tarot"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "tarot",
+        "porter": [
+            "joelschutz"
+        ],
+        "desc": "A tarot application for handheld game consoles made with Love2d to read your future.",
+        "inst": "Ready to run.",
+        "genres": [
+            "other",
+            "casino/card"
+        ],
+        "image": {},
+        "rtr": true,
+        "runtime": [],
+        "reqs": [],
+        "arch": [
+            "aarch64",
+            "armhf"
+        ]
+    }
+}

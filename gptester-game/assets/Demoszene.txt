@@ -1,0 +1,253 @@
+Die Demoszene entwickelte sich unter Anhangern der Computerszene in den 1980er-Jahren wahrend der Blutezeit der 8-Bit-Systeme. Ihre Anhanger, die haufig Demoszener oder einfach Szener genannt werden, erzeugen mit Computerprogrammen auf Rechnern sogenannte Demos - digitale Kunst, meist in Form von musikalisch unterlegten Echtzeit-Animationen.
+
+Mittlerweile ist die Demoszene zu einem etablierten Kreis innerhalb der Computerszene geworden; auf verschiedenen Veranstaltungen stellen sie ihre Werke auf Grosleinwanden vor. Langsam aber sicher bahnt sich die Demoszene auch einen Weg in die Museen und auf die progressiven Film- und Videofestivals. Heute wird vorwiegend auf herkommlichen PCs programmiert, aber auch Dutzende anderer Plattformen - von der Xbox bis zum Game Boy - halten fur die Programmierkunste her. Im deutschsprachigen Raum werden fur die Produkte dieser Kunstform die Demo und das Demo gleichermasen verwendet.
+
+Die Demoszene ist im Wesentlichen auf Europa beschrankt; in den USA und in Asien existieren nur relativ kleine Ableger.
+
+Geschichte
+
+Abgesehen von Crackintros der Crackerszene selber, wie sie z. B. heute noch die Gruppen SKIDROW und Razor 1911 mehrheitlich fur hoherwertige PC-Spiele produzieren, legt die heutige Demoszene eher Wert darauf, in keinem Zusammenhang mehr zur Cracker- oder Warez-Szene zu stehen. Noch zu Zeiten des C-64 und Amigas war dies nicht zu trennen, da sich aus den einfachen Intro-Grus-Laufschriften der Cracker die ersten reinen Demos uberhaupt erst entwickelt haben, insbesondere auch mit den Chiptunes die akustische Seite.
+
+Wahrend sich die Crackerszene jedoch vor allem mit der Verbreitung illegaler Kopien beschaftigt, widmet sich die Demoszene heute mehr dem Kunstaspekt der Computer. Nicht jeder heutige Demoszener war zwangslaufig ein ehemaliger Cracker oder auch nur Teil einer solchen Gruppe, aber viele Mitglieder fruherer Cracker-Gruppen sind heute in der Demoszene aktiv. Das liegt unter anderem daran, dass zu einem guten Crack ein kunstvoll gestaltetes Intro gehort.
+Diese Werke ehemaliger Cracker-Gruppen stellen den wichtigsten kunstlerischen Einfluss auf die Demoszene dar und begrunden auch die Entstehung der heutigen Demoszene.
+
+Vorlaufer
+
+Fruhe Vorlaufer, welche ahnlichkeiten mit den spateren Demoeffekten und deren Motivation des "Spielens" mit technischen Moglichkeiten aufweisen, sind sogenannte Display hacks, welche bis in die fruhen 1950er zuruckreichen. Direkte Vorlaufer sind die einfachen, ausschlieslich aus Text bestehenden Signaturen ("Crack-Screens"), mit denen sich Cracker erstmals in den spaten 1970er in Apple-II-Software verewigten. Graduell wandelten diese sich zu immer aufwandigeren Werken, bestehend aus Graphik, Musik und Animation.
+
+Ursprunge in den Heimcomputern der 1980er
+
+Als die eigentliche Geburtsstunde der Demos wird ublicherweise die Hochkonjunkturphase der 8-Bit-Computer, insbesondere des Commodore 64, abgekurzt C64 (Markteinfuhrung 1982), Atari 800 und Schneider/Amstrad CPC gesehen. In dieser Zeit erschienen massenhaft Computerspiele auf dem Markt, die meist mit einem Kopierschutz auf Software-Ebene versehen waren, um eine illegale Vervielfaltigung zu verhindern. Daraufhin entstanden sogenannte Cracker-Gruppen, die sich darauf spezialisierten, den Kopierschutz durch Manipulation am Programm zu entfernen. Diese Szene wuchs relativ schnell, und einzelne Gruppen begannen eine Art Wettbewerb darum, wer als erster bei den Spielen den Kopierschutz entfernte bzw. sie crackte und die kopierbare Fassung (cracked) anschliesend innerhalb der eigenen Szene verbreitete (released).
+
+Traditionell wurden die gecrackten Spiele mit einem Intro versehen, das sich in der Szene auch Cracktro nannte. Anfanglich handelte es sich hierbei um ein kleines Programm, das vor dem eigentlichen Spiel automatisch startete und meist mit Computermusik und dem Namen der Cracker-Gruppe dem Nutzer Computeranimationen vorfuhrte. Zusatzlich wurden meist Scrolltexte verwendet, um befreundete Szene-Mitglieder und andere Gruppen zu grusen (Greetings) und auch Werbung fur die eigene Gruppe durch die Veroffentlichung von Kontaktdaten in Form von BBS-Telefonnummern zu betreiben. Durch den Wettstreit zwischen den einzelnen Gruppen spielte neben der Qualitat des Spiels auch die des Intros eine Rolle fur das Ansehen der Gruppe. Es wurden immer aufwandigere Intros programmiert, die teilweise die Grenzen der zur Verfugung stehenden Hardware erreichten.
+
+Wandel der Szene: von Cracktros zu eigenstandigen Demos
+
+Zu diesem Zeitpunkt spezialisierten sich immer mehr Szener auf das eigentliche Programmieren von Intros - das Cracken und die Spiele an sich wurden fur sie zur Nebensache. Zwar ersannen die Software-Firmen immer neue Kopierschutzverfahren, aber das Aushebeln dieser softwarebedingten Beschrankungen war relativ simpel im Vergleich zu der Programmierkunst, die fur Intros aufgewendet wurde. Der Ruf (fame) von renommierten Cracker-Gruppen grundete sich oft nur noch auf ihre spektakularen Intros. Es entstanden nun die ersten Demos (DemoDisks) ohne gecracktes Spiel.
+
+So wurden die Schwerpunkte auch innerhalb der Gruppen neu gesetzt. Mit dem Auftritt der 16-Bit-Systeme, vornehmlich dem Commodore Amiga und Atari ST, wuchsen auch die Moglichkeiten der Intro/Demo-Programmierer. Innerhalb der einzelnen Gruppierungen entstanden feste Aufgabenbereiche: Grafiker sorgen fur die visuelle Prasentation, indem sie Bilder, Animationen und Schriftzuge (ASCII-Art etc.) erstellen. Musiker komponieren die Musik und akustischen Effekte, die oft mit Hilfe von Trackern erzeugt wurden. Programmierer (Coder) leisten die hauptsachliche Programmierarbeit und fugen die einzelnen Elemente zu einer fertigen Demo zusammen. Diskmags - elektronische Zeitschriften, die auf Diskette weitergereicht wurden - forderten den Informationsaustausch innerhalb der Szene.
+
+Ende der 1980er und Anfang der 1990er Jahre wurden "Schwarzkopien" ein immer groseres Problem der Software-Industrie. Sie stellte wegen nicht ausreichender Gewinne teilweise die Entwicklung von Spielen fur bestimmte Plattformen komplett ein. Einige beschuldigen die Cracker-Szene sogar, fur den Untergang des Amigas masgeblich mitverantwortlich gewesen zu sein, da dort das illegale Kopieren der Spiele ausuferte; Schwarzkopien vieler Spiele waren schon im Umlauf, bevor sie uberhaupt auf dem Markt erschienen.
+
+Mit der Dominanz der PC-Plattform und des Internets wurden Cracks problemlos erhaltlich und aufgrund der Vielzahl an neuen Programmen und Spielen, Massenware. Anders als in den 1980er-Jahren mussten die Programme nicht mehr per Post versendet oder personlich getauscht werden - man konnte sie einfach aus dem Internet herunterladen, einschlieslich des Cracks. Diese hatten immer seltener eine Intro, meist waren die Informationen zum Crack und die Greetings in einer sog. .nfo-Datei untergebracht. Auch die Behorden beschaftigten sich zunehmend mit dem Kampf gegen Schwarzkopien: Hausdurchsuchungen und Beschlagnahmungen der Hard- und Software und neben einzelnen Szenern wurden auch ganze Gruppen verhaftet.Beleg? Neben anderen Interessen war das ein weiterer wichtiger Grund fur die Abspaltung der Demoszene von den Cracker-Gruppen. Es entstanden verstarkt reine Demos, also die Veroffentlichung von Computerkunst ohne Verbreitung eines (illegal kopierten) Spiels, und eine deutlichere Differenzierung/Emanzipation der Demoszene von der Crackszene.
+
+1990er: Emanzipation der Demoszene auf der PC-Plattform
+
+Die eigentliche Demoszene entwickelte sich weiter, vor allem in Nordeuropa und Skandinavien wuchs die Szene stark. Mitte der 1990er Jahre etablierte sie sich mit Veranstaltungen wie der finnischen Assembly, der norwegischen Gathering und der deutschen Mekka & Symposium, auf denen die besten Demos vorgefuhrt und gekurt wurden, mit jeweils vielen Tausend Besuchern. Es entstanden Online-Publikationen spezialisiert auf die Demoszene und deren Technologie, wie z. B. Hugi oder TraxWeekly ein Tracker-Magazin.
+
+Mitte der 90er wurde die Demoszene zu einer der treibenden Krafte fur die Entwicklung der PC-Plattform in Richtung Multimedia, was auch von den Hardwareherstellen erkannt wurde und zur Unterstutzung von Demo-Veranstaltungen (z. B. der Assembly) durch Firmen wie Gravis oder AMD fuhrte. Die Soundkarte von Gravis, die Ultrasound, wurde von der Demoszene entdeckt und dadurch erst breiter bekannt.
+Die Bedeutung zeigt sich beispielsweise 1999 in der vom Online-Magazin Slashdot initiierten retrospektiven Wahl des 1993 erschienenen Future Crew Demo Second Reality unter die "Top 10 Hacks of All Time".
+
+Zu Ende 1990er und Anfang 2000er Jahre wurden viele Start-Ups von oder mit Demoszenern gegrundet, die ihre Konzepte und Technologien einbrachten. Ein Beispiel ist das finnische Unternehmen Remedy Entertainment, bekannt fur die Spieleserie Max Payne, welche von Future-Crew-Mitgliedern gegrundet wurde, und von der die meisten Angestellten ehemalige Demoszener sind.
+
+2000er: Selbstbegrenzung und Mobile Gerate
+
+In den 2000er Jahren entdeckte die Demoszene die mobilen Gerate mit begrenzter Rechenleistung als neues Spielfeld fur Echtzeit-Demos. Parallel dazu wurden zunehmend selbstbegrenzende Kategorien fur Demos auf dem PC eingefuhrt, da naturliche Hardwaregrenzen (z. B. Diskettengrose) mit wachsender Rechenleistung und Speicherplatz nicht mehr existierten. Eine populare Kategorie hier sind z. B. die 64k Demos, Demos, welche mit Klang und Grafik eine Dateigrose von 64 kByte nicht uberschreiten. Hierzu neuentwickelte Technologien sind die prozedurale Generierung, .kkrieger als beispielhaftes, preisgekrontes Demo hierzu von Farbrausch.
+
+Auch begann sich die Szene professioneller zu organisieren: In Deutschland fordert seit 2003 der eingetragene gemeinnutzige Verein "Digitale Kultur" die Demoszene, insbesondere durch Organisation der Evoke und Beschaffung von Sponsoren und Geldern. Ein eigens dafur entwickeltes CMS namens PartyMeister wird von der Demoszene fur die Organisation von einigen Demopartys eingesetzt, beispielsweise die tUM oder die Buenzli.
+
+Seit 2003 verleiht Scene.org, eine weitere, weltweit agierende Organisation der Demoszene, die Scene.org Awards, u. a. gesponsert durch Pixar. Die Scene.org Awards werden jahrlich an die Ersteller der besten Intros und Demos des vorhergehenden Jahres vergeben. Die Gewinner werden (mit Ausnahme des Publikumspreises) von einer Jury aus angesehenen Demoszenern aus aller Welt ausgewahlt. Die Preisvergabe fand bis 2010 auf der Breakpoint, der weltgrosten, reinen Demoparty, statt, seit 2011 auf der The Gathering, zeitgleich mit der Revision in Saarbrucken.
+
+Aufnahme ins immaterielle Kulturerbe
+
+Im Marz 2021 nahm die Kultusministerkonferenz die deutsche Demoszene ins bundesweite Verzeichnis des immateriellen Kulturerbes auf.
+
+Seit 2023 fuhrt das schweizerische Bundesamt fur Kultur die "Demoszene und digitale Kreativitat" in der Liste der lebendigen Traditionen in der Schweiz. Das Bundesamt hielt dazu fest: "Demoszenerinnen und Demoszener aus der Schweiz spielten eine wichtige Rolle bei der Entstehung der internationalen Szene (...). Bis heute ist die Gemeinschaft in der Schweiz sehr aktiv und tragt zur Entwicklung neuer Formen von Demos und zur Weitergabe  Wissens der Community bei."
+
+Technik
+
+Hardware
+
+Grundlagen
+
+Die Anforderungen an eine gute Demo hangen masgeblich von der zur Verfugung stehenden Hardware ab. Hier besteht ein wesentlicher Unterschied zwischen dem heute ublichen PC-System und alteren Plattformen wie dem Commodore 64, aber auch Konsolen wie der Sony PlayStation oder dem Nintendo Game Boy.
+
+Die Leistung eines Systems ist vor allem von Hauptprozessor, Arbeitsspeicher sowie Grafik- und Soundprozessoren abhangig. Bei nicht-PC-Systemen sind diese Komponenten meist festgelegt und nicht austauschbar. Eine beispielsweise fur den Commodore 64 programmierte Demo lief auf allen Rechnern gleich schnell. Bei einer Demo fur den PC sieht das anders aus, viele aktuelle PC-Demos laufen nur auf High-End-Systemen.
+
+Insbesondere beim Arbeitsspeicher gibt es enorme Unterschiede zwischen alteren Systemen und heutigen PCs. Wahrend ein Commodore 64 mit 65.535 Byte Arbeitsspeicher auskommen musste (zum Vergleich: dieser Wikipedia-Artikel inklusive aller Bilder wurde schon nicht mehr in seinen Speicher passen), sind heutzutage Arbeitsspeicher von mehreren Gigabyte keine Seltenheit. Deshalb wurden fur Demos fur die PC-Architektur, aber auch andere Hardware-Plattformen (Amiga, C-64, Mobile Gerate…), Kategorien mit definierter maximaler Speichernutzung eingefuhrt, um die verschiedenen Demos vergleichbarer zu machen (Abschnitt Wettbewerbe in Partys).
+
+Kritik am PC
+
+Viele Szener aus der Fruhzeit der Demoszene missbilligen heutige PC-Demos, insbesondere solche aus der "Unlimited"-Kategorie, also ohne eine Beschrankung des Hauptspeichers oder der Programmgrose. Ihr Vorwurf ist, dass man durch die fortschrittlichen technischen Rahmenbedingungen komplexe Grafik wie Texturen oder gerenderte 3D-Modelle komplett in den Arbeitsspeicher einlesen kann, wahrend man fruher aufgrund des sehr kleinen Speichers gezwungen war, solche Details wahrend des Ablaufs (Laufzeit) der Demo in Echtzeit berechnen zu lassen.
+
+Fur diese Kritiker besteht eine der wichtigsten Herausforderungen der Demo-Programmierung darin, durch Programmiertricks und ausgefeiltere Algorithmen immer mehr das Limit der Hardwarebeschrankungen auszureizen. Bei PC-Demos besteht aufgrund des Wegfalls dieser Beschrankungen darin keine Herausforderung mehr. Hierin liegt auch eine der Hauptursachen fur die in den vergangenen Jahren stark zugenommene Aufmerksamkeit gegenuber Intros mit maximal 64 KB, 32 KB, 4 KB oder gar 256 Byte.
+
+Zielsetzungen der PC-Demoszene
+
+Die PC-Demoszene sieht sich allerdings ganz anderen Herausforderungen gegenubergestellt, etwa der Optimierung neuer Techniken, beispielsweise des Pixel-Shadings. Durch die rasante Entwicklung der Technik hat sich insbesondere bei den jungeren Mitgliedern der Demoszene eine Verlagerung vom Ausreizen der Technik ("Pushing the Limits") hin zur kunstlerischen Gestaltung ("Artcreation") vollzogen. Wahrend die Hardwarebegrenzungen der Vergangenheit dazu fuhrten, dass die theoretisch formulierten Grenzen einer Hardware immer weiter hinausgeschoben werden (z. B. in Form von 3D-Umgebungen in Echtzeitberechnung auf dem C64), legte man auf dem PC den Schwerpunkt vielmehr auf die asthetische Mediengestaltung und nutzt dabei die jeweils neu verfugbaren PC-Erweiterungen.
+
+Fur die Anhanger alterer Plattformen bringt aber auch die Weiterentwicklung der Technik neue Herausforderungen. Langst haben sie mobile Endgerate wie PDAs, MDAs und Mobiltelefone fur ihre Zwecke entdeckt und fuhren auch darauf ihre Demos vor.
+
+Software
+
+Programmier-Grundlagen
+
+Entsprechend der grosen Hardwareunterschiede sind die Anforderungen an die Programmiertechnik fur eine gute Demo grundsatzlich verschieden. Das Hauptproblem fur Programmierer auf 8-Bit-Systemen war, mit dem begrenzten Arbeitsspeicher auszukommen. Bei einem Commodore 64 etwa standen 64 Kilobyte Hauptspeicher zur Verfugung. Um ein Programm moglichst klein zu halten, griff man auf solchen Rechnern auf Assembler als Programmiersprache zuruck. Das hatte den zusatzlichen Vorteil, dass Routinen wie Grafikberechnung wesentlich schneller abliefen als beispielsweise mit dem im C64 eingebauten BASIC-Interpreter.
+
+Um eine effektreiche und imposante Demo zu erstellen, besteht die Herausforderung vor allem darin, schnelle Algorithmen zu finden und sie platzsparend zu programmieren. Zudem entdecken findige Hacker immer wieder Tricks, um etwa vom System reservierten Speicher zu benutzen. Eine der ersten bahnbrechenden Methoden war der Rasterzeileninterrupt, der viele Effekte erst ermoglichte.
+
+Ein Beispiel fur eine Grenzleistung dieses "Pushing-the-Limits-Paradigma" ist die Demo ShiZZle vom Team Pokémé. Diese fur die kleine Handheld-Konsole Pokémon Mini programmierte Demo gewann die "Wild-Competition" auf der Breakpoint 2005. Das Gerat hat nur zwei Kilobyte RAM, 768 Byte Videospeicher, ein 96 × 64 px groses Monochrom-Display und eine 8-Bit-CPU. Die Demo wurde von den Besuchern trotzdem als eine der besten Demos uberhaupt gefeiert.
+
+Im PC-Sektor besteht die Programmierkunst mehr in der Anwendung schon vorhandener Grafikbibliotheken wie der DirectX- oder OpenGL-Schnittstelle. Spezielle Routinen fur Beleuchtungs-, Licht- und Schatteneffekte sowie spezielle Techniken wie Pixel-Shader ermoglichen es den Programmierern, immer eindrucksvollere Demos herzustellen.
+
+Aufbau klassischer Demos
+
+Ursprungliche Intros hatten zunachst einen relativ festen Aufbau: Musikalisch und mit Effekten hinterlegt wurden verschiedene visuelle Effekte gezeigt, etwa rotierende Sternenhimmel, allgemeine Spielereien mit Formen und Farben oder virtuelle Fluge durch imaginare Landschaften. Im Vordergrund standen meist Textbotschaften, die oft durch Scrolltexte realisiert wurden. In diesen Texten wurden vor allem die Beteiligten der Intros aufgelistet ("Credits") und befreundete Szener und Gruppen gegrust ("Greetings").
+
+Zusammenstellung zu Megademos
+
+Fur die ersten unabhangigen Werke, die anfanglich noch als Intros ohne illegales Spiel dahinter gestaltet wurden, setzte sich schnell der Begriff Screen durch, auch zur Abgrenzung der Cracktros der illegalen Crackerszene. Da ohne Spiel eine weitaus grosere Menge an Speicherplatz auf dem Datentrager zur Verfugung stand, wurden recht bald mehrere Screens zu einer Megademo verbunden.
+
+Die Auswahl der Bestandteile einer Megademo fand dabei fur gewohnlich uber ein einfaches (seltener auch aufwandigeres) interaktives Auswahlmenu statt. Da das Hin- und Herschalten zwischen Menus jedoch oft als muhsam und als unnotige Unterbrechung empfunden wurde, galten solche Menus schnell als verpont. Es setzte sich mit der Zeit eine Aufhebung der Trennung durch, und die Screens wurden zu einer festen Reihenfolge verbunden. Nach und nach bildete sich ein stimmiger Gesamtzusammenhang heraus, mit einem gemeinsamen Thema und einem schlussigen Ablauf. Die ersten Demos in der heute ublichen Form entstanden.
+
+Organisation
+
+Gruppen
+
+Die meisten Demo-Kunstler organisieren sich in Gruppen Gleichgesinnter und arbeiten auf dieser Basis in Projektteams zusammen.
+
+Wichtige Gruppen auf dem PC in den 1990er Jahren waren Future Crew (Second Reality) oder Triton (FastTracker), welche auch organisatorische Aufgaben fur die gesamte Szene leisteten, wie die Organisation von Partys. Zu den bekanntesten in den 2000ern aktiven Gruppen aus Deutschland zahlen beispielsweise Farbrausch oder Haujobb. Innerhalb dieser Gruppierungen leisten die einzelnen Mitglieder ihren Teil in unterschiedlichen Aufgabenbereichen. Die Gruppenzugehorigkeit der an einem Projekt Beteiligten wird heute weniger wichtig genommen als fruher; harte Konkurrenz, die einstmals bis in meist freundliche Auseinandersetzungen ("Wars") ausarten konnte, ist heute weitgehend einem Geist vielfacher Kooperation gewichen. Gruppennamen nehmen die Rollen von Produktmarken ein, die fur bestimmte Stilrichtungen bzw. ein gewisses Qualitatsniveau stehen.
+
+Partys
+
+Ein wichtiger Bestandteil der Demoszene sind Demopartys - Veranstaltungen, auf denen die Szene fur mehrere Tage zusammenkommt, die besten Demos der Gruppen auf Grosleinwanden zeigt und pramiert. Im Unterschied zu einer LAN-Party steht bei einer Demoparty die Programmiertechnik und Computerkunst im Vordergrund. Auch wenn sich die Grenzen solcher Veranstaltungen teilweise mischen, wie bei der finnischen Assembly oder der norwegischen The Gathering, den grosten derartigen Partys weltweit, wollen sich die Demoszener von den Gamern auf LAN-Partys grundsatzlich abheben. Gamer gelten auf vielen Veranstaltungen, beispielsweise den grosten deutschen Veranstaltungen Revision und Evoke, als verpont. Wenngleich hier gelegentliches Spielen toleriert wird, legt man Wert darauf, dass die Erstellung und Vorfuhrung der Demos im Vordergrund steht.
+
+Neben den bereits genannten Demopartys besitzen auch die MountainBytes in der Schweiz und the Ultimate Meeting in Deutschland eine grosere Bedeutung.
+
+Einladung
+
+Es burgerte sich ein, dass eine der einladenden und organisierenden Demogruppen eine digitale Einladung in Form einer kleinen Demo, genannt Invitation, mit den relevanten Informationen uber Ablauf, Zeitplanung und Wettbewerben einer Party veroffentlichte.
+
+Wettbewerbe
+
+Mittelpunkt jeder Demoparty sind die Wettbewerbe und Vorfuhrungen der Demos, sogenannte Competitions oder kurz Compos. Hier messen sich sowohl Gruppen als auch Einzelkunstler in verschiedenen Kategorien. Abgestimmt wird von den anwesenden Besuchern. Es ist durchaus ublich, Beitrage zu den Compos noch auf der Party fertigzustellen. Das Party Coding bis zum Stichtag wird trotz enormen Stresses als besondere Erfahrung angesehen, die fur viele Szener fest zur Demoerstellung gehort.
+
+Damit ein Vergleich der eingereichten Demos moglich ist, werden die Wettbewerbe in verschiedene Kategorien unterteilt. Fur besonders beliebte Plattformen wie dem Amiga oder Commodore 64 gibt es oft einen eigenen Wettbewerb. Fur PC-Systeme unterteilt man traditionell in eine Speicherbegrenzung von 64, 16 oder 4 Kilobyte. Fur alle anderen Plattformen - je exotischer, desto besser - gibt es die "Wild"-Kategorie. Ferner gibt es Unterkategorien wie reine Animation, Rendering, bestes Musikstuck oder sogar beste ASCII-Art.
+
+Auch Browser-Demos, Flash-Demos oder Java-Demos konnen in eigenen Wettbewerben antreten.
+
+Literatur
+
+Weblinks
+
+Interviews und Berichte
+
+Einzelnachweise
+
+
+
+Internationale Verzeichnisse:
+
+Reprasentative Liste:
+Genossenschaft (2016) |
+Falknerei (2016) |
+Orgelbau und Orgelmusik (2017) |
+Blaudruck (2018) |
+Floserei (2022) |
+Moderner Tanz (2022) |
+Hebammenwesen (2023) |
+Bewasserung (2023) |
+Glasproduktion (2023)
+
+Gute Praxisbeispiele:
+Bauhuttenwesen (2020)
+
+Bundesweites Verzeichnis:
+
+Mundliche uberlieferungen, Sprache:
+Deutsche Gebardensprache |
+Marchenerzahlen |
+Poetry Slams |
+Rattenfanger von Hameln
+
+Darstellende Kunste, Musik:
+Choralsingen |
+Chormusik in deutschen Amateurchoren |
+Demoszene |
+Instrumentales Laien- und Amateurmusizieren |
+Singen der Lieder der deutschen Arbeiterbewegung |
+Moderner Tanz |
+Mundarttheater in Deutschland |
+Niederdeutsches Theater |
+Oberammergauer Passionsspiele |
+Papiertheater |
+Posaunenchore |
+Sachsische Knabenchore: Thomanerchor, Kreuzchor, Dresdner Kapellknaben |
+Sternsingen |
+Theater- und Orchesterlandschaft Deutschlands |
+Volkstanzbewegung |
+Zwiefacher
+
+Gesellschaftliche Brauche und Organisationsformen:
+Barther Kinderfest |
+Bergparaden und Bergaufzuge in Sachsen |
+Biikebrennen |
+Ehrsames Narrengericht zu Grosselfingen |
+Eisenacher Sommergewinn |
+Feldgeschworenenwesen in Bayern |
+Friedhofskultur in Deutschland |
+Further Drachenstich |
+Genossenschaftsidee |
+Georgiritt und historischer Schwerttanz Traunstein |
+Grasedanz im Harz |
+Handwerksgesellenwanderschaft |
+Hansel-Fingerhut-Spiel |
+Hebammenwesen |
+Heiligenstadter Palmsonntagsprozession |
+Historisches Dokumentarspiel "Landshuter Hochzeit 1475" |
+Historisches Festspiel "Kinderzeche" |
+Historisches Festspiel "Der Meistertrunk" |
+Lindenkirchweih Limmersdorf |
+Malchower Volksfest |
+Osingverlosung |
+Ostfriesische Teekultur |
+Peter-und-Paul-Fest Bretten |
+Rheinischer Karneval |
+Salzwirker-Bruderschaft im Thale zu Halle |
+Schachtradition in Strobeck |
+Schutzenwesen in Deutschland |
+Schwabisch-alemannische Fastnacht |
+Spergauer Lichtmess |
+Sennfelder und Gochsheimer Friedensfeste |
+Skatspielen |
+Sorbisches Brauchtum |
+Tolzer Leonhardifahrt |
+Tonnenabschlagen |
+Wunsiedler Brunnenfest
+
+Umgang mit der Natur:
+Falknerei |
+Finkenmanover im Harz |
+Innerstadtischer Erwerbsgartenbau in Bamberg |
+Kneippen |
+Traditionelle Flussfischerei an der Mundung der Sieg in den Rhein
+
+Traditionelle Handwerkstechniken:
+Deutsche Brotkultur |
+Flechthandwerk |
+Floserei |
+Hessischer Kratzputz |
+Kohlerhandwerk und Teerschwelerei |
+Kunstlerische Drucktechniken |
+Mal-, Fass- und Vergoldetechniken der Kirchenmalerei |
+Manuelle Glasfertigung |
+Marktredwitzer Krippenkultur |
+Morsetelegrafie |
+Orgelbau und Orgelmusik |
+Porzellanmalerei |
+Reetdachdecker-Handwerk |
+Spitzenkloppeln im Oberpfalzer Wald |
+Uhrmacherhandwerk |
+Topfertradition Westerwalder Steinzeug |
+Vogtlandischer Musikinstrumentenbau |
+Zubereitung und Anwendung von traditionellem Kalkmortel
+
+Gute Praxisbeispiele:
+Amateurmusikpflege in Baden-Wurttemberg |
+Bauhuttenwesen |
+Bewahrung und Forderung von Kultur, Vielfalt und Qualitat regionaler Spezialitaten in Oberfranken |
+Erforschung und Dokumentation von Flur- und Hausnamen in Bayern |
+Hochalpine Allgauer Alpwirtschaftskultur in Bad Hindelang |
+Manufakturelle Schmuckproduktion |
+Pfingsttanz in Mansfelder Grund-Helbra
+

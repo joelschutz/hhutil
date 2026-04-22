@@ -1,0 +1,14 @@
+/.vscode
+
+*.zip
+*.love
+
+/release
+*/calc
+*/dice
+*/gptester
+*/habit
+*/metronome
+*/tarot
+*/todo
+*/weather

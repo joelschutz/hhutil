@@ -1,0 +1,7 @@
+LÖVE 2D - The Framework
+
+LÖVE is a framework for creating 2D games in Lua. It's free, open-source, and cross-platform.
+Website: https://love2d.org
+
+Licensed under zlib license. Full license available at:
+https://github.com/love2d/love/blob/main/license.txt

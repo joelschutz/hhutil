@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "name": "habit.zip",
+    "items": [
+        "Habit.sh",
+        "habit"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "Habit",
+        "porter": [
+            "joelschutz"
+        ],
+        "desc": "A habit tracker application for handheld game consoles made with Love2d.",
+        "inst": "Ready to run.",
+        "genres": [
+            "other"
+        ],
+        "image": {},
+        "rtr": true,
+        "exp": false,
+        "runtime": null,
+        "reqs": []
+    }
+}

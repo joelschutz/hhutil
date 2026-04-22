@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Todo.sh</path>
+    <name>Todo</name>
+    <desc>A minimalist TODO list application for handheld game consoles made with Love2d. Create, edit, and manage your tasks with controller-only interface.</desc>
+    <image>./todo/screenshot.png</image>
+    <releasedate>20260412T000000</releasedate>
+    <developer>joelschutz</developer>
+    <publisher>joelschutz</publisher>
+    <genre>Other</genre>
+  </game>
+</gameList>

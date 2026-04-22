@@ -1,0 +1,28 @@
+{
+    "version": 2,
+    "name": "weather.zip",
+    "items": [
+        "Weather.sh",
+        "weather"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "weather",
+        "porter": [
+            "joelschutz"
+        ],
+        "desc": "A weather application for handheld game consoles made with Love2d that can detect your location.",
+        "inst": "Ready to run.",
+        "genres": [
+            "other"
+        ],
+        "image": {},
+        "rtr": true,
+        "runtime": [],
+        "reqs": [],
+        "arch": [
+            "aarch64",
+            "armhf"
+        ]
+    }
+}

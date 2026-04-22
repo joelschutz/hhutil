@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "name": "metronome.zip",
+    "items": [
+        "Metronome.sh",
+        "metronome"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "metronome",
+        "porter": [
+            "joelschutz"
+        ],
+        "desc": "A metronome application for handheld game consoles made with Love2d that includes 10 different clicks.",
+        "inst": "Ready to run.",
+        "genres": [
+            "other",
+            "rhythm"
+        ],
+        "image": {},
+        "rtr": true,
+        "runtime": [],
+        "reqs": [],
+        "arch": [
+            "aarch64",
+            "armhf"
+        ]
+    }
+}
